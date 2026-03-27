@@ -1,0 +1,1 @@
+{\n  "name": "navayata-clothing",\n  "version": "1.0.0",\n  "author": "Akash Shaw",\n  "scripts": {\n    "start": "node server.js"\n  },\n  "description": "NAVAYATA e-commerce website project metadata."\n}
